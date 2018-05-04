@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/qibancom/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qibancom/helloworld.git"
+  },
+  "author": "Buzz Zhang <buzz.zhang@gmail.com> (https://www.wecan.ai)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qibancom/helloworld/issues"
+  },
+  "homepage": "https://github.com/qibancom/helloworld#readme"
+}

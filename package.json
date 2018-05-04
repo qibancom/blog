@@ -1,7 +1,8 @@
 {
-  "name": "helloworld",
+  "name": "qiban-helloworld",
   "version": "1.0.0",
-  "description": "You can use the [editor on GitHub](https://github.com/qibancom/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "description":
+    "You can use the [editor on GitHub](https://github.com/qibancom/helloworld/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/qibancom/helloworld.git"
   },
-  "author": "Buzz Zhang <buzz.zhang@gmail.com> (https://www.wecan.ai)",
-  "license": "ISC",
+  "author": "北京企办信息技术有限公司",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/qibancom/helloworld/issues"
   },

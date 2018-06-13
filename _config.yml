@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Jekyll configuration
 
 name: Xixia
@@ -28,6 +27,3 @@ markdown: kramdown
 gems: ['jekyll-paginate']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
-=======
-theme: jekyll-theme-time-machine
->>>>>>> 4484f21888450df61d0a9a35374fe93e49189fe5

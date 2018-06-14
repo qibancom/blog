@@ -15,8 +15,8 @@ baseurl: '/'
 date_format: 
   title: "%Y-%m-%d"
   archive: "%d"
-  categories: "%b-%Y"
-  tag: "%b-%Y"
+  categories: "%Y-%m"
+  tag: "%Y-%m"
 # Language
 lan: "cn" 
 

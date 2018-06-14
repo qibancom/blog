@@ -13,8 +13,8 @@ url: https://qibancom.github.io
 baseurl: '/'
 ## default date_format
 date_format: 
-  title: "%B-%-d-%Y"
-  archive: "%b"
+  title: "%Y-%m-%d"
+  archive: "%d"
   categories: "%b-%Y"
   tag: "%b-%Y"
 # Language
